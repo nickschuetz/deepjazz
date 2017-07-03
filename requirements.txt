@@ -1,4 +1,5 @@
-Tensorflow
+pip=9.0.1
+tensorflow
 music21==3.1.0
 keras==2.0.5
 theano==0.9.0
